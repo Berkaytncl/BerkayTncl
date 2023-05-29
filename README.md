@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Berkay</h1>
+## Hi, I'm Berkay
 
-#### I am interested in iOS programming.
+#### I am currently working on iOS programming.
 
 - 🌱 Learning all about **iOS**
 - 📫 Reach me: **berkaytncl98@gmail.com**
